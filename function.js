@@ -31,13 +31,15 @@ function printNextTag() {
     authorElement.innerHTML = "";
     var tagline = tagToPrint[level];
 
-    if(pos >= tagline.length) {
+    if(pos >= tagline.length) 
+    {
         // console.log("position1", pos, "Level1 ", level)
         pos = 0;
         level++;
         clearInterval(timer);
         var name = author[level];
-        if(name === undefined) {
+        if(name === undefined) 
+        {
             name = "Unknown";
         }
         authorElement.innerHTML = name;
