@@ -3,7 +3,7 @@ var tagToPrint = [];
 tagToPrint[0] = "Nobody can come and develop Africa on behalf of Africans.";
 tagToPrint[1] = "A tiger does not shout its tigrtiude. It acts";
 tagToPrint[2] = "We cannot wait for governments to do it all.";
-tagToPrint[3] = "We mus forever realize that the time is always ripe to do right";
+tagToPrint[3] = "We must forever realize that the time is always ripe to do right";
 
 
 var author = [];
